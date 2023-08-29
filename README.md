@@ -18,6 +18,7 @@
 
 - NextJS
 - ReactJS
+- TypeScript
 - TailwindCSS
 - Shadcn UI
 - Json Server
@@ -27,3 +28,8 @@
 - ![Screenshot1](screenshots/TodoAppScreenshot1.png)
 - ![Screenshot2](screenshots/TodoAppScreenshot2.png)
 - ![Screenshot3](screenshots/TodoAppScreenshot3.png)
+
+## Description
+
+- This is a simple todo app built using NextJS, ReactJS, TailwindCSS, Shadcn UI and Json Server.
+
